@@ -1,0 +1,8 @@
+.container{
+    width: 100%;
+    text-align: center;
+    background-color: rgb(255, 66, 66);
+    color: #FFF;
+    font-weight: bolder;
+    transition: opacity 500ms ease-in;
+}
