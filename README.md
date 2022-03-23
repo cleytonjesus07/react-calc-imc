@@ -9,3 +9,6 @@ Projeto desenvolvido durante o curso [B7Web](https://b7web.com.br) .
 
 ### Para rodar:
 - `npm start`
+
+### Projeto rodando:
+Acesse no [Netlify](https://react-calc-imc.netlify.app/) .
